@@ -3,4 +3,4 @@
 
 http://localhost/lambdaWordpress/
 
-Recréation de une frontpage avec ACF, récupération des champs via PHP.
+Recreation of a frontpage with ACF, retrieval of fields via PHP.
